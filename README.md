@@ -1,28 +1,62 @@
-Blinkit-sales-analysis-Power-BI
+# 🧾Blinkit-sales-analysis-Power-BI
 This project is a comprehensive Power BI dashboard designed to visualize and analyze key sales metrics for Blinkit, India's last-minute delivery app. The dashboard focuses on item sales performance, customer ratings, outlet distribution, and sales by fat content and item type.
-Detailed Visuals & Insights
-🥫 Fat Content Distribution
+---
+
+## 📌 Table of Contents
+- <a href="#Detailed Visuals & Insights">Detailed Visuals & Insights</a>
+- <a href="#Fat Content Distribution">🥫Fat Content Distribution</a>
+- <a href="#🏬 Fat Content by Outlet Type">🏬 Fat Content by Outlet Type</a>
+- <a href="#🍱 Item Type Breakdown">🍱 Item Type Breakdown</a>
+- <a href="#🏢 Outlet Establishment Timeline">🏢 Outlet Establishment Timeline</a>
+- <a href="#🌍 Outlet Location Distribution">🌍 Outlet Location Distribution</a>
+- <a href="#🛠️ Tools & Technologies">🛠️ Tools & Technologies</a>
+- <a href="#author--contact">Author & Contact</a>
+----
+
+<h2><a class="anchor" id="overview"></a>Detailed Visuals & Insights</h2>
+----
+
+<h2><a class="anchor" id="overview"></a>🥫Fat Content Distribution</h2>
+
 Regular: 776.32K (64.6%)
 Low Fat: 425.36K (35.4%)
-🏬 Fat Content by Outlet Type
+
+---
+
+<h2><a class="anchor" id="overview"></a>🏬 Fat Content by Outlet Type</h2>
 Sales distribution of Low Fat vs Regular items across different outlet types (Supermarket, Grocery Store, etc.).
 Highest sales from Supermarkets for both fat categories.
-🍱 Item Type Breakdown
+
+---
+
+<h2><a class="anchor" id="overview"></a>🍱 Item Type Breakdown</h2>
 Top-performing item categories by sales:
 Fruits and Vegetables – 0.18M
 Snack Foods – 0.18M
 Household Items – 0.14M
 Others include Frozen Food, Dairy, Canned Goods, Beverages, etc.
-🏢 Outlet Establishment Timeline
+
+---
+
+<h2><a class="anchor" id="overview"></a>🏢 Outlet Establishment Timeline</h2>
 Tracks total sales over years of outlet establishment (2010 to 2020+).
 Peak sales around 2018 with 0.20M.
-🌍 Outlet Location Distribution
+
+---
+
+<h2><a class="anchor" id="overview"></a>🌍 Outlet Location Distribution</h2>
 Sales by outlet location tier:
 Tier 3: 472.13K (Highest)
 Tier 2: 393.15K
 Tier 1: 336.40K
-🛠️ Tools & Technologies
+
+---
+
+<h2><a class="anchor" id="overview"></a>🛠️ Tools & Technologies</h2>
 Power BI
 DAX
 Data Modeling
 Data Cleaning & Transformation
+
+---
+<h2><a class="anchor" id="overview"></a>Author & Contact</h2>
